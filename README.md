@@ -14,4 +14,4 @@ A decision-support financial web application that recommends the next best finan
 - Database: MongoDB Atlas
 
 ## Live Demo
-https://interest-calculator-frontend.sanjananr08.repl.co
+https://github.com/sanjananr08/Interest-Calculator-webapp
