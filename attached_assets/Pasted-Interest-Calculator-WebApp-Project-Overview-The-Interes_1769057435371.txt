@@ -1,0 +1,45 @@
+Interest Calculator (WebApp)
+Project Overview:
+The Interest Calculator WebApp aims to simplify the process of managing, tracking, and
+calculating interest on money lent or borrowed between individuals or businesses. The
+system will provide an intuitive dashboard that helps users keep records of transactions,
+calculate payable or receivable interest automatically, and receive timely reminders for due
+payments.
+Core Functionalities:
+1. Transaction Management
+Add transactions with date, amount, interest rate, name, contact, mode of payment, and
+optional screenshot upload. Transactions can be marked as Given or Taken.
+2. Account Linking System
+Profiles for each giver/receiver with interlinked transactions showing total outstanding
+balances and automatic adjustments.
+3. Interest Calculation Module
+Automatic interest calculation (monthly/yearly), support for simple or compound interest, and
+handling of partial payments or extensions.
+4. Reminder & Notification System
+Smart pop-up reminders for upcoming and due payments, with scope for
+Email/SMS/WhatsApp notifications in future versions.
+5. Dashboard & Reporting
+Comprehensive dashboard showing totals, summaries, graphs, and export options for
+PDF/Excel reports.
+Additional Features (Future Upgrades):
+Role-based authentication, backup and restore options, AI-based reminders, and accounting
+API integration.
+UI/UX Design
+The complete UI/UX design for the Interest Calculator WebApp has already been attached in
+the folder. Developers are expected to follow the design flow and maintain responsiveness, Technical Stack (Proposed)
+Layer Technology
+Frontend React.js / Next.js
+Backend Node.js with Express.js
+Database MongoDB / PostgreSQL
+Storage AWS S3 / Firebase
+Authentication JWT (JSON Web Token)
+Notifications Cron Jobs + Twilio / WhatsApp API (future)
+Deliverables:
+1. Fully functional Interest Calculator WebApp (Deployed on Test Server)
+2. Documentation for APIs and Database structure
+3. User Manual for operations
+4. Bug Report Sheet post-QA testing
+Objective Recap:
+To develop a secure, scalable, and user-friendly interest management web application that
+enables individuals and businesses to record transactions effortlessly, calculate interest
+automatically, and stay informed through reminders and analytics
